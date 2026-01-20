@@ -1,10 +1,3 @@
-library(tidyverse)
-
-raw_data <- read_csv('data/raw/registrar_data.csv')
-
-head(raw_data ,n= 12)
-
-
 #Questions that we will be working on
 
 #1)How do students with same standing perform?
@@ -15,3 +8,4 @@ head(raw_data ,n= 12)
 
 #3) How do departments compare?
 # highest standing
+
