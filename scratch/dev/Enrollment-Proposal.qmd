@@ -1,5 +1,5 @@
 ---
-title: "Enrollment Trends & Insights: Proposal"
+title: "Enrollment Trends & Insights: Proposals"
 subtitle: "College of Idaho Enrollment Visualization Project"
 author: "Team Sentinel"
 format: revealjs
